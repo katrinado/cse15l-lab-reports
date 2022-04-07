@@ -14,7 +14,7 @@
 
 ## Blink
 
-[blink link](https://katrinado.github.io/cse15l-lab-reports/blink.html)
+[blink link](https://katrinado.github.io/cse15l-lab-reports/index.html)
 
 ---
 
