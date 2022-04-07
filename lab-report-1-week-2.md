@@ -1,3 +1,3 @@
 # Screenshots
 
-
+![Image](pic.png)
