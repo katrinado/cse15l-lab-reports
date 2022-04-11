@@ -1,4 +1,4 @@
-# Lab Report Week 2
+# Lab Report 1, Week 2
 
 1. ![Image](vscode.png)
 The first thing one should do when accessing their course specific account on ieng is having a code editor downloaded onto their computer. Installing [VsCode](https://code.visualstudio.com/) will give you access to an editor.
