@@ -1,17 +1,8 @@
-**Hello everyone** :^O
-
-That's it.
-
-or is it...
+# Index
+1. [Lab 2: "Basic Syntax" Practice](https://katrinado.github.io/cse15l-lab-reports/blink.html)
 
 ---
 
-[click this!](https://katrinado.github.io/cse15l-lab-reports/blink.html)
-
----
-
-I'ts pretty convenient to be able to see what I'm changing whilst in the process of changing it. *That's crazy*
-
-# sooo crazy
+2. [Lab Report 1](https://katrinado.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 
 ---
