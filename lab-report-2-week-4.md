@@ -7,7 +7,7 @@
 
 ![Image](/labpics2/fail1.png)
 
-The bug that correlates to this edit in the code was an infinite loop. The *failure-inducing input* was the new line character at the end of the file. The original code was unable to find where the markdown file ended so it would endlessly continue until eventually resulting with an error for its output. In order to fix this, the code was changed to locate where the final closed bracket in the markdown file.
+The bug that correlates to this edit in the code was an infinite loop. The *failure-inducing input* was the new line character at the end of the file. The original code was unable to find where the markdown file ended so it would endlessly continue until eventually resulting with an out of memory error for its output. In order to fix this, the code was changed to locate where the final closed bracket in the markdown file.
 
 ---
 
