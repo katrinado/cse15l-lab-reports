@@ -30,4 +30,4 @@ File containing *failure-inducing input*: [new-test-file.md](https://github.com/
 
 ![Image](/labpics2/fail3.png)
 
-The new issue I was presented with was that the code would print the link as many times as there were closed parentheses following. The code is using the initial open parentheses and pairing it with each following closed parentheses which results in the multiple prints of the same link. The code was changed so that the loop would stop if the closing parentheses is repeated.
+The new issue I was presented with was that the code would print the link as many times as there were closed parentheses following. The code is using the initial open parentheses and pairing it with each following closed parentheses which results in the multiple prints of the same link. This was a result of my previous code change. The code fix wasn't the right approach to solving the previous error. My third code change was still not enough to fix the bug. To prevent this moving forward, ending brackets, along with the other indicators of a link, should only be used for writing the link in the file. Then the code should be able to successfully print the link.
