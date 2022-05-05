@@ -1,4 +1,4 @@
-# Index
+# CSE 15L (Section C00)
 
 ---
 ## Lab Material
