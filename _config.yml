@@ -1,6 +1,5 @@
-
 # theme: jekyll-theme-leap-day
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: mmistakes/so-simple-theme
 title: CSE 15L Lab Reports
 description: Spring Quarter 2022
 author: Katrina Do
