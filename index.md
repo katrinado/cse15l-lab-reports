@@ -1,5 +1,5 @@
 ---
-title: CSE 15L (Section B00)
+title: CSE 15L Lab Reports
 ---
 
 # Index
