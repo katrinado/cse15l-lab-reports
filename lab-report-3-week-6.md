@@ -1,4 +1,9 @@
-# Lab Report 3, Week 6
+---
+title: Lab Report 3, Week 6
+---
+
+# Report 3
+
 
 ## 1. Streamlining ssh Configuration
 

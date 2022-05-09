@@ -1,4 +1,9 @@
-# Lab Report 2, Week 4
+---
+title: Lab Report 2, Week 4
+---
+
+# Report 2
+
 
 ## Code Change 1
 ![Image](/labpics2/change1.png)

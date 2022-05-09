@@ -1,4 +1,8 @@
-# Lab Report 1, Week 2
+---
+title: Lab Report 1, Week 2
+---
+
+# Report 1
 
 ## 1. Installing VScode
 ![Image](/labpics1/vscode.png)
