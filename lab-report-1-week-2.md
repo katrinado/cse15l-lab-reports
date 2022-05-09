@@ -29,7 +29,7 @@ The user should then test a few commands to see if the remote computer is workin
 ## 4. Moving Files with `scp`
 ![Image](/labpics1/scp.png)
 
-The files from the local computer are then moved to the remote computer with the *scp* command. For my example I created the file *WhereAmI.java* on my local computer then used the following command. As well as the *ls* command to see that it successfully moved to the remote computer.
+The files from the client computer are then moved to the remote computer with the *scp* command. For my example I created the file *WhereAmI.java* on my client computer then used the following command. As well as the *ls* command to see that it successfully moved to the remote computer.
 
 ```
 scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/
