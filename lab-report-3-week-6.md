@@ -29,7 +29,6 @@ Now that the account is easier to access, the user can even use the `scp` comman
 
 ## 2. Setup Github Access from ieng6
 ![Image](/labpics3/labrep3_3.png)
-Let's try this again.
 
 
 ---
