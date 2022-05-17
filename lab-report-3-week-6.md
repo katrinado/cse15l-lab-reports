@@ -32,6 +32,7 @@ Now that the account is easier to access, the user can even use the `scp` comman
 ![Image](/labpics3/labrep3_5.png)
 ![Image](/labpics3/labrep3_6.png)
 ![Image](/labpics3/labrep3_7.png)
+![Image](/labpics3/labrep3_8.png)
 
 
 ---
