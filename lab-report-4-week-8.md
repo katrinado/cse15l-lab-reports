@@ -16,6 +16,8 @@ title: Lab Report 4, Week 8
 ```
 ![Image](/labpics4/preview1.png)
 
+**Expected Output:** `['google.com, google.com, ucsd.edu]`
+
 
 
 ## 2. [Snippet 2](https://katrinado.github.io/cse15l-lab-reports/snippets/snippet2.html)
@@ -27,6 +29,9 @@ title: Lab Report 4, Week 8
 [some escaped \[ brackets \]](example.com)
 ```
 ![Image](/labpics4/preview2.png)
+
+**Expected Output:** `[a.com, a.com(()), example.com]`
+
 
 
 
@@ -58,4 +63,23 @@ And there's still some more text after that.
 And then there's more text
 ```
 ![Image](/labpics4/preview3.png)
+
+**Expected Output:** `[I'm not sure]`
+
+---
+
+## [My MarkdownParse](https://github.com/katrinado/markdown-parser)
+
+Added Tests for my implementation:
+
+
+## [Reviewed MarkdownParse](https://github.com/ezh247467/markdown-parser)
+
+Added tests for their implementation:
+
+## Answers:
+1.
+2.
+3.
+
 
