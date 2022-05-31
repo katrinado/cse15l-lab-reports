@@ -80,8 +80,10 @@ Results of Added tests for their implementation:
 ![Image](/labpics4/reviewed.png)
 
 ## Answers:
-1.
-2.
-3.
+1. For the first snippet their code possibly unable to disregard the first attempted link due to the back ticks which is why the output of their code was different from the expected outcome. A possible fix for their code would to account for backticks that disrupt a pair of brackets.
+
+2. For their second snippet, their code printed  parentheses and brackets different from the expected output. A possible fix would be to find the correct last parentheses for each link.
+
+3. The additional text was also printed for the final snippet. To fix this, they could possibly disregard any text not contained in a pair of brackets.
 
 
