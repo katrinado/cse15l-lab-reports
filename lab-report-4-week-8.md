@@ -76,7 +76,7 @@ Results of Added Tests for my implementation:
 
 ## [Reviewed MarkdownParse](https://github.com/ezh247467/markdown-parser)
 
-Added tests for their implementation:
+Results of Added tests for their implementation:
 ![Image](/labpics4/reviewed.png)
 
 ## Answers:
