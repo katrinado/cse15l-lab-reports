@@ -64,18 +64,20 @@ And then there's more text
 ```
 ![Image](/labpics4/preview3.png)
 
-**Expected Output:** `[I'm not sure]`
+**Expected Output:** `[[https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule]]`
 
 ---
 
 ## [My MarkdownParse](https://github.com/katrinado/markdown-parser)
 
-Added Tests for my implementation:
+Results of Added Tests for my implementation:
+![Image](/labpics4/mine.png)
 
 
 ## [Reviewed MarkdownParse](https://github.com/ezh247467/markdown-parser)
 
 Added tests for their implementation:
+![Image](/labpics4/reviewed.png)
 
 ## Answers:
 1.
