@@ -16,6 +16,8 @@ title: CSE 15L Lab Reports
 
 4. [Lab Report 4](https://katrinado.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
 
+5. [Lab Report 5](https://katrinado.github.io/cse15l-lab-reports/lab-report-5-week-10.html)
+
 ---
 ## Lab Material
 
